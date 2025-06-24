@@ -3,6 +3,8 @@
 `fract-ol` is a 42 graphics project that focuses on rendering fractals using the MiniLibX graphics library.  
 The goal is to create an interactive fractal viewer that can display and zoom into various types of fractals such as the Mandelbrot and Julia sets.
 
+![Demo Screenshot](./assets/fractol.png)
+
 ## 🎯 Features
 
 - Mandelbrot set
@@ -51,6 +53,8 @@ make
 
 `fract-ol` は、MiniLibX を使って**フラクタルを描画する**42のグラフィックス系プロジェクトです。  
 複素数を用いた数式を繰り返し演算し、その結果をもとに画像を描画していきます。
+
+![Demo Screenshot](./assets/fractol.png)
 
 ## 🎯 機能
 
